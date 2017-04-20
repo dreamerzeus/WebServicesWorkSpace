@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<school>
+    <student Student-Id="1">
+        <Student-Name>rahul</Student-Name>
+        <Student-fees>12000.0</Student-fees>
+        <MobileNos>
+            <Student-MobileNos>987654321</Student-MobileNos>
+            <Student-MobileNos>123456789</Student-MobileNos>
+        </MobileNos>
+    </student>
+    <student Student-Id="2">
+        <Student-Name>pratap</Student-Name>
+        <Student-fees>13000.0</Student-fees>
+        <MobileNos>
+            <Student-MobileNos>12345</Student-MobileNos>
+            <Student-MobileNos>54321</Student-MobileNos>
+        </MobileNos>
+    </student>
+</school>
